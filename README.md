@@ -1,5 +1,7 @@
 # WebToXml
 This is a terraform script that creates a website. The website downloads any website from a link, and downloads it into a S3 bucket
+http://test-lb-tf-185050371.eu-north-1.elb.amazonaws.com/
+
 
 ![Screenshot_4](https://user-images.githubusercontent.com/97877531/174275328-d688d5bf-7d56-457c-a84a-6982e3fb591a.png)
 ![Screenshot_5](https://user-images.githubusercontent.com/97877531/174275343-900e2f19-f1c0-4623-b3dd-b2c20dc2783e.png)
